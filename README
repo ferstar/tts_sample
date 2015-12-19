@@ -1,0 +1,49 @@
+发音人选择
+
+这里<http://bbs.xfyun.cn/forum.php?mod=viewthread&tid=367&extra=page%3D1>的发音人是原先的，有些发音人现在已经不建议试用    
+最新发音人请参考下面发音人：
+
+讯飞语音云合成（TTS）更新了多语种引擎，目前多语种已经支持6种语言~~~~详细参见：<http://bbs.xfyun.cn/forum.php?mod=viewthread&tid=5387&fromuid=484>
+     引擎          发音人         音色            语言                         参数配置
+MultipleTTS     玛丽安         青年女声     法语                           ent=mtts,vcn=Mariane
+MultipleTTS     古丽            青年女声     维吾尔语                   ent=mtts,vcn=Guli
+MultipleTTS     阿拉本        青年女声     俄罗斯语                   ent=mtts,vcn=Allabent
+MultipleTTS     加芙列拉    青年女声      西班牙语                   ent=mtts,vcn=Gabriela
+MultipleTTS     艾伯哈        青年女声     印地语                      ent=mtts,vcn=Abha
+MultipleTTS     小云           青年女声     越南语                      ent=mtts,vcn=XiaoYun
+
+     引擎           发音人         音色            语言                         参数配置
+InterPhonic     小燕           青年女声       普通话                      vcn=xiaoyan
+InterPhonic     小宇           青年男声       普通话                      vcn=xiaoyu
+InterPhonic     凯瑟琳       青年女声        英语                         vcn=Catherine
+InterPhonic     小梅          青年女声        粤语                          vcn=xiaomei
+InterPhonic     小齐          青年女声        普通话                       vcn=xiaoqi
+InterPhonic     Henry        青年男声        英语                          vcn=henry
+
+Aisound          燕平          青年女声        普通话                        vcn=aisxyan
+Aisound          宇峰         青年男声        普通话                        vcn=aisxiaoyu
+Aisound          晓婧          青年女声        普通话                        vcn=aisjinger
+Aisound         唐老鸭              卡通        普通话                        vcn=aisDuck
+Aisound         许小宝       少男童声        普通话                        vcn=aisBABYXu
+Aisound         楠楠          少女童声        普通话                        vcn=aisnn
+Aisound         晓梦          青年女声        普通话                        vcn=aisxmeng
+Aisound         晓琳          青年女声        台湾普通话                 vcn=aisxlin
+Aisound         晓倩         青年女声         东北话                        vcn=aisxqian
+Aisound         晓蓉         青年女声         四川话                        vcn=aisxrong
+Aisound         小坤         青年男声         河南话                        vcn=aisxkun
+Aisound         小强         青年男声         湖南话                        vcn=aisxqiang
+Aisound         晓美         青年女声         粤语                           vcn=aisxmei
+Aisound         大龙         青年男声         粤语                           vcn=aisdalong
+Aisound         Catherine 青年女声         美式纯英文                 vcn=aiscatherine
+Aisound         John        青年男声         美式纯英文                 vcn=aisjohn
+Aisound         Tom        青年男声         英文                            vcn=aisTom
+Aisound         许多        青年男声         普通话                         vcn=aisduoxu
+Aisound         许久        青年男声         普通话                         vcn=aisjiuxu
+Aisound         小萍        青年女声         普通话                         vcn=aisxping
+Aisound         小艾        青年女声         普通话                         vcn=aisxa
+Aisound         紫棋        青年女声         普通话                         vcn=ziqi
+Aisound         叶芳        青年女声         普通话                          vcn=yefang
+Aisound         倪洋        青年男声         普通话                         vcn=niyang
+Aisound         孟春        青年女声         普通话                         vcn=aismengchun
+Aisound         蜡笔小新        卡通         普通话                         vcn=aisxxin
+
